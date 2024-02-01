@@ -32,10 +32,3 @@
 </div>
 
 <br>
-
-<div style="display: flex; flex-wrap: wrap;">
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyj5599&layout=compact&theme=tokyonight)
-
-</div>
