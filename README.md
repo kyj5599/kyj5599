@@ -33,4 +33,4 @@
 </div>
 
 <hr>
-[![kyj5599's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyj5599)](https://github.com/anuraghazra/github-readme-stats)
+![kyj5599's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
