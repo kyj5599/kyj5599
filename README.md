@@ -32,7 +32,8 @@
 </div>
 
 <br>
-<div style="display: flex;">
+
+<div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
 
