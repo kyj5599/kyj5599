@@ -1,4 +1,5 @@
 ### 👩🏻‍💻 Front-End Developer
+<hr>
 <div>
   <a href="https://velog.io/@kyj277/posts">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
@@ -10,6 +11,7 @@
 </div>
 
 ### ⚒️ STACKS
+<hr>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
@@ -32,3 +34,4 @@
 </div>
 
 <hr>
+[![YJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyj5599&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kyj5599/github-readme-stats)
