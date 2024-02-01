@@ -10,7 +10,6 @@
 </div>
 
 ### ⚒️ STACKS
-<hr>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
@@ -32,5 +31,5 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
-<hr>
 ![kyj5599's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
