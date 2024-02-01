@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 Front-End Developer
-<div style="display: flex; flex-wrap: wrap;">
+<div>
   <a href="https://velog.io/@kyj277/posts">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
     </a>
