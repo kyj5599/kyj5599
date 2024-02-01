@@ -3,7 +3,7 @@
   <a href="https://velog.io/@kyj277/posts">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
     </a>
-  <br>
+  
   <a href="mailto:kyujin277@gmail.com">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
