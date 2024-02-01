@@ -1,6 +1,8 @@
 ### 👩🏻‍💻 Front-End Developer
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
 ### ⚒️ Skills
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
