@@ -33,5 +33,5 @@
 
 <br>
 <div>
-   ![kyj5599's github stats]([https://github-readme-stats.vercel.app/api?username=username](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight))
+   ![kyj5599's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
 </div>
