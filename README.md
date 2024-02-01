@@ -32,4 +32,4 @@
 </div>
 
 <br>
-![kyj5599's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
