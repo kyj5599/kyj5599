@@ -1,4 +1,4 @@
-### 👩🏻‍💻 Front-End Developer
+## 👩🏻‍💻 Front-End Developer
 <hr>
 <div>
   <a href="https://velog.io/@kyj277/posts">
@@ -10,7 +10,7 @@
     </a>
 </div>
 
-### ⚒️ STACKS
+## ⚒️ STACKS
 <hr>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
