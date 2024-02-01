@@ -32,7 +32,7 @@
 </div>
 
 <br>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex;">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
 
