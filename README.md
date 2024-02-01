@@ -1,5 +1,4 @@
 ### 👩🏻‍💻 Front-End Developer
-<hr>
 <div>
   <a href="https://velog.io/@kyj277/posts">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
@@ -34,4 +33,4 @@
 </div>
 
 <hr>
-[!(https://github-readme-stats.vercel.app/api?username=kyj5599&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kyj5599/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyj5599)](https://github.com/anuraghazra/github-readme-stats)
