@@ -31,5 +31,5 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
+<br>
 ![kyj5599's github stats](https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
-(https://github-readme-stats.vercel.app/api?username=kyj5599&show_icons=true&theme=tokyonight)
