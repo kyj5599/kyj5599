@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### 💪 Skills
 #### Platforms & Languages
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=#40AEF0"/>
+<img src="https://img.shields.io/badge/#61DAFB?style=flat-square&logo=React&logoColor=40AEF0"/>
