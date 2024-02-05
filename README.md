@@ -1,15 +1,4 @@
-## 👩🏻‍💻 Front-End Developer
-<div>
-  <a href="https://velog.io/@kyj277/posts">
-        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-    </a>
-  
-  <a href="mailto:kyujin277@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</div>
-
-<h2 align="center">🌈 Follow Me 🌈</h3>
+<h2 align="center">👩🏻‍💻 Front-End Developer 👩🏻‍💻</h2>
 <p align="center">
   <a href="https://velog.io/@kyj277/posts">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
@@ -22,7 +11,7 @@
 
 <br>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h3>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
